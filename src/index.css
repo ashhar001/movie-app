@@ -183,3 +183,14 @@ body {
   font-size: 20px;
   color: #6d6d6d;
 }
+.year{
+  padding-top: 20px;
+  margin-left: 20px;
+  
+}
+
+.released{
+  padding-top: 20px;
+  margin-left: 20px;
+  display: inline;
+}
